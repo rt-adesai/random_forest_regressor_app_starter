@@ -1,0 +1,6 @@
+{
+  "max_perc_miss_for_most_freq_impute": 0.05,
+  "rare_perc_threshold": 0.15,
+  "missing_ind_suffix": "_missing",
+  "valid_split": 0.1
+}
